@@ -25,7 +25,7 @@
 - 다양한 공격스킬로 적을 죽일 수 있음
 <br><br>
 
-# [관련 이미지 & 동영상] <a name='2'></a>
+# [관련 동영상] <a name='2'></a>
 
 - 동영상
 - [![예제](http://img.youtube.com/vi/KQWwXvCtyIs/0.jpg)](https://youtu.be/KQWwXvCtyIs) 
