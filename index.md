@@ -72,9 +72,9 @@ Unity 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공|<img src="/image/주인공.jpg" width="500">|
-|2|적1|<img src="/image/적.jpg" width="500">|
-|3|적2|<img src="/image/적1.jpg" height="300">|
+|1|주인공|<img src="/image/주인공.JPG" width="500">|
+|2|적1|<img src="/image/적.JPG" width="500">|
+|3|적2|<img src="/image/적1.JPG" height="300">|
 
 2. 파라미터(속성) 뽑아 보기
 
