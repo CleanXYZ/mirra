@@ -67,7 +67,7 @@ Unity 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공2|<img src="/ui/미라.JPG" width="300" height="300">|
+|1|주인공|<img src="/ui/미라.JPG" width="300" height="300">|
 |2|적1|<img src="/ui/슬라임.JPG" width="300" height="300">|
 |3|적2|<img src="/ui/거북이.JPG" width="300" height="300">|
 
