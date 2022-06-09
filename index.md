@@ -67,9 +67,9 @@ Unity 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공|<img src="/image/미라.png" width="300" height="300">|
-|2|적1|<img src="/image/슬라임.png" width="300" height="300">|
-|3|적2|<img src="/image/거북이.png" width="300" height="300">|
+|1|주인공|<img src="./image/미라.png" width="300" height="300">|
+|2|적1|<img src="./image/슬라임.png" width="300" height="300">|
+|3|적2|<img src="./image/거북이.png" width="300" height="300">|
 
 2. 파라미터(속성) 뽑아 보기
 
