@@ -67,7 +67,7 @@ Unity 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공1|<img src="/image/뱀서.png" width="500">|
+|1|주인공1|<img src="/image/1.PNG" width="500">|
 |2|적1|<img src="/image/2.PNG" width="500">|
 |3|적2|<img src="/image/3.PNG" height="300">|
 
